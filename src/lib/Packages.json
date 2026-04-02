@@ -1,0 +1,2166 @@
+[
+  {
+    "id": "winter-spiti",
+    "title": "Winter Spiti: An Ultimate Adventure",
+    "category": "Expedition",
+    "duration": "7N/8D",
+    "location": "Spiti Valley, Himachal Pradesh",
+    "originalPrice": "₹18,000",
+    "price": "₹16,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/28.jpg",
+    "story": "Winter in Spiti Valley is a magical experience, transforming the rugged landscape into a serene, snow-covered wonderland. From December to February, the valley sees freezing temperatures, often dipping as low as -20°C. Snow blankets the villages, monasteries, and hills, making it a paradise for adventure seekers. Embark on a breathtaking journey where every stop offers a new adventure, from the frozen beauty of Nako Lake to the highest suspension bridge in Asia.",
+    "highlights": [
+      "Chicham Bridge",
+      "Key Monastery",
+      "Komic (Highest Village)",
+      "Hikkim (Highest Post Office)"
+    ],
+    "inclusions": [
+      "Accommodation (Homestay/Hotels)",
+      "Meals (Breakfast & Dinner)",
+      "Transportation in Tempo Traveller",
+      "All Inner line permits",
+      "Driver Night charges, toll taxes"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Any personal expenses / Adventure activities",
+      "Any cost arising due to natural calamities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Delhi to Shimla",
+        "desc": "We will meet at the boarding point in Delhi - Kashmiri Gate. Leave from Delhi in the evening and start an overnight journey to Shimla.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/0.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Shimla - Transfer to Sangla",
+        "desc": "Reach Shimla early morning. Transfer to Sangla en route crossing Kufri and Narkanda. Visit Kinnaur Gate. Reach Sangla by evening.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/28.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Chitkul, Nako & Tabo",
+        "desc": "Post breakfast, leave for Chitkul. Later leave for Tabo via Khab Sangam. Explore Nako and Gue Monastery before checking into Tabo.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/14.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Tabo to Kaza via Dhankar",
+        "desc": "Visit Tabo Monastery and Dhankar Monastery. Reach Kaza by the end of the day and check into your homestay.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/18.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Chicham Bridge & Key Monastery",
+        "desc": "Head towards sightseeings in Spiti. Visit the iconic Key Monastery and the highest suspension bridge in Asia - Chicham Bridge.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/3.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Hikkim, Komic, Langza",
+        "desc": "Visit the highest post office in the world in Hikkim. Head towards the highest village in the world (Komic) and the fossil village (Langza).",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/17.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Move towards Kalpa",
+        "desc": "Pack your bags and depart for Kalpa. Reach Kalpa and check into your hotel. Rest and overnight stay.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/24.jpg"
+      },
+      {
+        "day": "Day 7",
+        "title": "Kalpa - Suicide Point - Shimla",
+        "desc": "Head towards suicide point and then transfer to Shimla. Reach Shimla by evening and depart for Delhi with beautiful memories.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/16.jpg"
+      }
+    ]
+  },
+  {
+    "id": "char-dham",
+    "title": "Char Dham Yatra",
+    "category": "Pilgrimage",
+    "duration": "9N/10D",
+    "location": "Dev Bhoomi, Uttarakhand",
+    "originalPrice": "₹20,000",
+    "price": "₹19,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/12.jpg",
+    "story": "This is a comprehensive spiritual expedition covering all four sacred shrines of Dev Bhoomi Uttarakhand. Travelers embark on a long journey starting with purifying dips in hot springs at Jamnabai Kund and Gangnani. The experience involves trekking to Yamunotri and Kedarnath, witnessing the confluence of rivers at Devprayag, and visiting ancient shrines. The pilgrimage concludes with a blend of devotion and adventure.",
+    "highlights": [
+      "Yamunotri Dham",
+      "Gangotri Dham",
+      "Kedarnath Trek",
+      "Badrinath Temple"
+    ],
+    "inclusions": [
+      "Accommodation (Hotels & Homestays)",
+      "9 Breakfasts and 9 Dinners",
+      "Transportation in AC Tempo Traveler",
+      "Trip Captain Guidance"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Pony/Palanquin charges",
+      "Entry Tickets/Fees",
+      "Adventure Activities (Rafting/Bungee)"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Delhi to Barkot",
+        "desc": "Our journey begins at 9:30 PM from Akshardham Metro Station in Delhi. Prepare for an overnight drive to Barkot.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/12.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Barkot via Mussoorie",
+        "desc": "Reach Mussoorie in the morning, experience Kempty Falls if time allows. Continue to Barkot and settle into your hotel.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/0.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Yamunotri Dham",
+        "desc": "Drive to Jan Ki Chatti. Trek 6km to Yamunotri Temple. Pay homage to Mother Yamuna and visit Surya Kund hot spring.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/14.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Barkot to Uttarkashi",
+        "desc": "Journey to Uttarkashi. Visit the ancient Vishwanath Temple and the Shakti Temple. Enjoy the serene surroundings.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/17.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Gangotri Dham",
+        "desc": "Stop at Gangnani for a dip in Garam Kund. Travel through Harshil valley to Shree Gangotri. Take a holy dip in the Bhagirathi.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/27.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Uttarkashi to Guptkashi",
+        "desc": "Travel to Guptkashi/Sonprayag. Witness the confluence of Alaknanda and Bhagirathi at Devprayag.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/30.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Trek to Kedarnath",
+        "desc": "Start at 2 AM. Reach Gaurikund and begin the 22km trek (8-10 hours). Arrive at Kedarnath and settle into your accommodation.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/32.jpg"
+      },
+      {
+        "day": "Day 7",
+        "title": "Kedarnath to Chopta",
+        "desc": "Morning visit to the temple. Trek back to Gaurikund and drive to Chopta. Explore lush forests and panoramic views.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/23.jpg"
+      },
+      {
+        "day": "Day 8",
+        "title": "Chopta to Badrinath",
+        "desc": "Travel to Badrinath. Dip in Tapt Kund and visit the renowned temple of Lord Badri Vishal. Continue to Joshimath for the night.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/21.jpg"
+      },
+      {
+        "day": "Day 9",
+        "title": "Badrinath to Rudraprayag",
+        "desc": "Explore more of the area before proceeding to Rudraprayag. Check-in and relax in the serene environment.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/37.jpg"
+      },
+      {
+        "day": "Day 10",
+        "title": "Rudraprayag to Rishikesh",
+        "desc": "Reach Rishikesh mid-morning. Optional activities like River Rafting or exploring Ram Jhula. Depart for Delhi at 5 PM.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/CharDhamTP/25.jpg"
+      }
+    ]
+  },
+  {
+    "id": "do-dham",
+    "title": "Do Dham Yatra",
+    "category": "Pilgrimage",
+    "duration": "4N/5D",
+    "location": "Garhwal Himalayas, Uttarakhand",
+    "originalPrice": "₹12,000",
+    "price": "₹10,500",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg",
+    "story": "Designed for devotees focusing on the two major Himalayan shrines, this journey takes travelers through the Garhwal Himalayas. The core experience is the 22 km physical trek from Gaurikund to the 3,583-meter high Kedarnath Temple. After spending a night near the temple, the journey continues to Badrinath to immerse in the healing waters of Tapt Kund and seek blessings from Lord Badri Vishal. It is a focused, intense spiritual retreat.",
+    "highlights": [
+      "Kedarnath Temple Trek",
+      "Badrinath Darshan",
+      "Tapt Kund Bath",
+      "Gaurikund"
+    ],
+    "inclusions": [
+      "Accommodation",
+      "Meals (4 Breakfast, 4 Dinner)",
+      "Transportation via Tempo Traveler",
+      "Trip Captain"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Personal Expenses",
+      "Pony/Helicopter charges"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Delhi To Guptkashi/Phata",
+        "desc": "Begin your journey from Delhi overnight towards the peaceful foothills of the Himalayas.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Guptakashi/Phata",
+        "desc": "Arrive in Guptkashi, settle into your hotel, relax and enjoy the scenic beauty before resting for the trek.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/6.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Trek to Kedarnath",
+        "desc": "Start at 2 AM. Drive to Gaurikund and begin the 22km trek. Settle into accommodation near the temple.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/7.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Kedarnath to Phata",
+        "desc": "Morning darshan at the temple, followed by a trek back down to Gaurikund and return to Phata/Chopta for the night.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/8.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Phata to Badrinath",
+        "desc": "Drive to Badrinath. Take a healing dip in Tapt Kund and visit Lord Badri Vishal. Proceed to Joshimath.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/4.jpeg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Badrinath to Delhi",
+        "desc": "Depart from Joshimath to Rishikesh. Explore Ram Jhula if time permits, then proceed back to Delhi.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/2.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "kedarnath-expedition",
+    "title": "Kedarnath Expedition",
+    "category": "Pilgrimage",
+    "duration": "3N/4D",
+    "location": "Kedarnath, Uttarakhand",
+    "originalPrice": "₹9,500",
+    "price": "₹8,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg",
+    "story": "A short, highly focused pilgrimage dedicated entirely to Lord Shiva. Travelers drive from Delhi to the peaceful foothills of Guptkashi before undertaking the challenging 22km trek to Kedarnath. The narrative centers on waking up early to witness the serene beauty of the temple amidst the snowy mountains and green meadows, followed by a descent to Sonprayag and a relaxing conclusion in Rishikesh.",
+    "highlights": [
+      "Kedarnath Temple",
+      "Gaurikund",
+      "Sonprayag",
+      "Rishikesh Aarti"
+    ],
+    "inclusions": [
+      "Accommodation",
+      "Meals (3 Breakfast, 3 Dinner)",
+      "Transportation",
+      "Driver & Guide Fees"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Helicopter/Pony rides",
+      "Lunches & Personal expenses"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Delhi To Guptkashi/Phata",
+        "desc": "Overnight journey from Delhi to the holy town of Guptkashi.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Guptakashi/Phata",
+        "desc": "Arrive, check into the hotel, and rest up for the big trek the following day. Enjoy the confluence views of rivers en route.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/6.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Trek to Kedarnath",
+        "desc": "Early morning start. Reach Gaurikund and trek 22 km to Kedarnath. Stay overnight near the holy shrine.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/7.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Kedarnath to Phata/Guptkashi",
+        "desc": "Morning Darshan at the temple, trek down to Gaurikund, and return to Guptkashi/Sonprayag for rest.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/8.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Guptkashi to Rishikesh & Delhi",
+        "desc": "Drive down to Rishikesh. Spend some time by the Ganges before returning to Delhi.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/4.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "kinnaur-kailash",
+    "title": "The Great Kinnaur Kailash",
+    "category": "Pilgrimage & Trekking",
+    "duration": "3N/4D",
+    "location": "Kinnaur, Himachal Pradesh",
+    "price": "₹12,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/14.jpg",
+    "story": "An intense trekking adventure into the heart of Himachal Pradesh. The journey tests endurance, requiring travelers to camp in the wild at Ganesh Park. The climax of the story is a 2:00 AM midnight trek to the Kinnaur Kailash Shivling to witness the sunrise over the Kinner Kailash peak. This package is built around physical challenge and extreme mountain exploration.",
+    "highlights": [
+      "Midnight Trek to Shivling",
+      "Ganesh Park Camping",
+      "Tangling Village",
+      "Kinner Kailash Sunrise"
+    ],
+    "inclusions": [
+      "Accommodation (Basic Homestay & Camps)",
+      "3 Breakfast, 3 Lunch, 3 Dinner",
+      "Trek Guide & Transportation",
+      "Climbing Equipments (if required)"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Personal Porter",
+      "Any kind of entry tickets"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Shimla to Tangling Village",
+        "desc": "Pick up from Shimla MCD Parking by 7:00 AM. Visit Kinnaur Gate. Reach Tangling Village after a 7-8 hour drive and rest at a homestay.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/14.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Trek to Ganesh Park",
+        "desc": "Start 12km trek from Tangling village to Ganesh Park. Check-in at camps, relax, and attend the briefing for the midnight summit push.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/0.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Kinnaur Kailash Shivling Summit",
+        "desc": "Wake up call at 2 AM. Start the 6km trek to the Shivling. Reach by 12 PM to enjoy views of Kinner Kailash peak. Trek back down to Ganesh Park.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/9.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Trek Down & Return to Shimla",
+        "desc": "Trek down from Ganesh Park to Tangling Village. Collect luggage and depart for Shimla, arriving in 6-7 hours.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "manimahesh-kailash",
+    "title": "Mt. Manimahesh Kailash",
+    "category": "Pilgrimage & Trekking",
+    "duration": "3N/4D",
+    "location": "Bharmour, Himachal Pradesh",
+    "price": "₹12,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANIMAHESH/9.jpeg",
+    "story": "This trip blends local culture with high-altitude trekking. Arriving in Bharmour, travelers explore the ancient 84 Temple before starting the 14 km ascent from Hadsar to Manimahesh Lake. The defining moment of this journey is waking up early for the 'Mani Darshan' (a blink of light at Kailash) and taking a holy bath in the freezing Shiv Kund before descending.",
+    "highlights": [
+      "Manimahesh Lake",
+      "Mani Darshan",
+      "Shiv Kund Holy Bath",
+      "84 Temple Bharmour"
+    ],
+    "inclusions": [
+      "Accommodation (Homestay & Camps)",
+      "All Meals (Breakfast, Lunch, Dinner)",
+      "Trek Guide",
+      "Transportation from Chandigarh"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Personal Porter",
+      "Adventure activities/Entry Fees"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure From Chandigarh",
+        "desc": "Pick up from Chandigarh in the evening. Briefing from the trip leader and overnight journey.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANIMAHESH/9.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Bharmour Arrival & Sightseeing",
+        "desc": "Reach Bharmour by morning. Check-in and relax. By noon leave for Bharmani Mata Temple & 84 Temple. Explore local market.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANIMAHESH/1.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Trek to Manimahesh Lake",
+        "desc": "Leave for Hadsar (trek starting point). Start 14km trek to Manimahesh Lake. Check-in at camps near Shiv Kund.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANIMAHESH/2.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Mani Darshan & Trek Down",
+        "desc": "Wake up early for Mani Darshan at Kailash. Take a bath in holy Shiv Kund. Trek down to Hadsar and return to Bharmour.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANIMAHESH/3.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Departure to Chandigarh",
+        "desc": "Wake up, have breakfast, check-out and depart for Chandigarh. Reach after a 9-10 hour journey.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANIMAHESH/4.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "shrikhand-mahadev",
+    "title": "Shrikhand Mahadev Kailash",
+    "category": "Pilgrimage & Trekking",
+    "duration": "5N/6D",
+    "location": "Kullu, Himachal Pradesh",
+    "price": "₹14,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SHRIKHANDMAHADEV/17.jpg",
+    "story": "A prolonged and arduous multi-day trekking expedition. Travelers progress through stages, trekking from Jaon Village to Thachru, and then to Bheemdwar, setting up camps along the way. The pinnacle is a midnight push to the Shrikhand Mahadev Shivling to catch the sunrise views of the Shrikhand Kailash peak. It is a story of resilience, rugged camping, and profound spiritual achievement.",
+    "highlights": [
+      "Shrikhand Shivling",
+      "Bheemdwar Camping",
+      "Thachru Ascents",
+      "High Altitude Wilderness"
+    ],
+    "inclusions": [
+      "Accommodation (Camps/Homestays)",
+      "All Meals (5B, 5L, 5D)",
+      "Trek Guide & Transportation",
+      "Equipment for climbing"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Personal Porter",
+      "Personal Expenses"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Shimla to Jaon Village",
+        "desc": "Pick up from Shimla. Visit Dev Dhank Temple en route. Reach Jaon Village after 7-8 hours and check-in to Homestay.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SHRIKHANDMAHADEV/17.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Trek to Thachru",
+        "desc": "Start the challenging 15km trek from Jaon Village to Thachru. Reach by evening, check-in at camps and attend next day briefing.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SHRIKHANDMAHADEV/16.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Trek to Bheemdwar",
+        "desc": "Early morning trek to Bheemdwar (11km). Acclimatize at the high altitude camps and prepare for the midnight summit.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SHRIKHANDMAHADEV/19.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Summit to Shrikhand Mahadev",
+        "desc": "Wake up at 2 AM. Trek 7km to the Shivling to reach by 12 PM. Enjoy views of the peak, then trek down to Bheemdwar.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SHRIKHANDMAHADEV/0.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Trek back to Thachru",
+        "desc": "Trek 11km down from Bheemdwar to Thachru. Relax and recover at the campsite.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SHRIKHANDMAHADEV/12.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Trek to Jaon & Return to Shimla",
+        "desc": "Final descent to Jaon village. Freshen up, collect luggage, and drive back to Shimla.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SHRIKHANDMAHADEV/15.jpg"
+      }
+    ]
+  },
+  {
+    "id": "winter-kashmir",
+    "title": "Winter Kashmir",
+    "category": "Expedition",
+    "duration": "5N/6D",
+    "location": "Srinagar & Beyond, J&K",
+    "price": "₹14,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERKASHMIR/11.jpg",
+    "story": "A classic winter wonderland experience. The narrative shifts from physical exertion to scenic leisure, taking travelers to snow-covered meadows and frozen landscapes. The itinerary includes hiring a pony to magnificent glaciers in Sonmarg, riding the Gondola cable car over ski slopes in Gulmarg, and experiencing the cultural staple of a Dal Lake Houseboat stay and Shikara ride.",
+    "highlights": [
+      "Dal Lake Shikara Ride",
+      "Gulmarg Ski Slopes",
+      "Sonmarg Glaciers",
+      "Houseboat Stay"
+    ],
+    "inclusions": [
+      "3N Srinagar, 1N Pahalgam, 1N Houseboat",
+      "5 Breakfasts & 5 Dinners",
+      "Train/Sleeper AC Bus both sides",
+      "1 Hr Shikara Ride"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Gondola Cable Car tickets",
+      "Pony Rides",
+      "Lunches"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Delhi to Jammu",
+        "desc": "Depart from Delhi in the evening. Overnight Journey to Jammu via AC Sleeper Bus/Train.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERKASHMIR/11.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Jammu to Srinagar",
+        "desc": "Arrive in Jammu and proceed to Srinagar (6 Hours journey). Check in at the hotel and rest.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERKASHMIR/0.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Sonmarg Day Trip",
+        "desc": "Drive to Sonmarg, enjoying views of paddy fields and rivers. Hire a pony to ride up to the magnificent Glaciers. Return to Srinagar.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERKASHMIR/13.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Gulmarg Day Trip",
+        "desc": "Drive to the 'Meadow of Flowers'. Enjoy snow-covered meadows, ski slopes, and the Gondola Cable car. Catch panoramic views of Nanga Parbat.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERKASHMIR/15.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Houseboat Stay & Srinagar Tour",
+        "desc": "Visit Mughal Gardens: Cheshmashahi, Nishat, Shalimar & Shankaracharya temple. Check-in at Houseboat and enjoy an evening Shikara ride.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERKASHMIR/19.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Srinagar to Pahalgam",
+        "desc": "Drive via Pampore and Avantipura. Visit Betaab Valley and Chandanwari. Optional horse-riding to Baisaran meadows.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERKASHMIR/9.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Pahalgam to Jammu & Delhi",
+        "desc": "After breakfast check out and proceed to Jammu with lots of memories. Depart for Delhi.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERKASHMIR/17.jpg"
+      }
+    ]
+  },
+  {
+    "id": "spiti-valley",
+    "title": "Spiti Valley",
+    "category": "Expedition",
+    "duration": "6N/7D",
+    "location": "Spiti Valley, Himalayas",
+    "price": "₹16,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/28.jpg",
+    "story": "From the apple orchards of Sangla to the lunar moonscapes of Kaza, Summer Spiti is a geological wonder frozen in rock and ice. This 7-day expedition takes you along the precipitous Hindustan-Tibet Highway, past ancient Tibetan Buddhist monasteries perched on impossible cliffs, through villages where time stands still. Experience the world's highest post office at Hikkim, the highest motorable village Komic, and the legendary Chitkul — the last inhabited village on the Indo-Tibetan border.",
+    "highlights": [
+      "Ancient monasteries",
+      "High-altitude landscapes",
+      "Spitian villages",
+      "Adventure activities",
+      "Photography"
+    ],
+    "inclusions": [
+      "Volvo transfer",
+      "Tempo Traveler",
+      "6 nights accommodation",
+      "12 meals",
+      "Inner line permits",
+      "Team Captain"
+    ],
+    "exclusions": [
+      "Natural calamities cost",
+      "Personal expenses",
+      "Food not in package"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Delhi to Shimla (Overnight Bus)",
+        "desc": "Board your Volvo AC bus from Kashmiri Gate, Delhi in the evening. Start the overnight journey through Karnal and Ambala toward the hills of Shimla. Arrive early morning.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/0.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Shimla to Sangla (Kinnaur)",
+        "desc": "Freshen up in Shimla and drive toward Kinnaur, crossing Kufri pine forests and Narkanda apple orchards. Pass through the dramatic Kinnaur Gate arch. Descend to the Baspa River valley and check into your hotel in Sangla with views of the Kinner Kailash range.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/28.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Chitkul, Nako & Tabo",
+        "desc": "Morning drive to Chitkul — the last inhabited village on the Indo-China border and the source of the Baspa River. Return to Karcham and ascend steeply to Nako, a remote village perched around a sacred frozen lake. Visit the 1000-year-old monastery and continue to Tabo for the night.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/14.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Tabo to Kaza (via Dhankar)",
+        "desc": "Explore the cave monasteries and ancient murals of Tabo (one of the oldest monasteries in the world). Drive to precariously perched Dhankar Monastery overlooking the confluence of the Spiti and Pin rivers. Continue to Kaza, the district headquarters of Spiti, and set up base.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/18.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Key Monastery & Chicham Bridge",
+        "desc": "Visit the iconic Key Monastery (Ki Gompa) — an 11th-century fortress-monastery dramatically perched on a rocky hill. Drive through Kibber (the world's highest motorable village) and cross the Chicham Bridge — the highest suspension bridge in Asia at 4,450m, spanning a 120m gorge.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/3.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Hikkim, Komic, Langza",
+        "desc": "Begin the day at Hikkim and send a postcard from the world's highest post office at 14,400 feet. Drive to Komic — the highest motorable village on earth — and then to Langza, the Fossil Village, where you'll find a towering Buddha statue surrounded by marine fossils from when the Himalayas were an ancient seabed.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/17.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Kaza to Kalpa",
+        "desc": "Depart Kaza and drive back through Kinnaur. Stop at the enchanting Nako Lake and pick up local handicrafts. Reach Kalpa by evening and check into your hotel. Watch Kinner Kailash peak turn golden at sunset from your window.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/24.jpg"
+      },
+      {
+        "day": "Day 7",
+        "title": "Kalpa – Suicide Point – Shimla – Delhi",
+        "desc": "Early morning visit to the aptly named Suicide Point in Kalpa, where the cliff edge offers a terrifying and breathtaking view of the gorge below. Drive back to Shimla, stop for lunch, and depart for Delhi on the evening Volvo bus, carrying unforgettable memories.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/WINTERSPITITP/16.jpg"
+      }
+    ]
+  },
+  {
+    "id": "yulla-kanda",
+    "title": "Yulla Kanda",
+    "category": "Trekking",
+    "duration": "2N/3D",
+    "location": "Yulla Kanda, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/YULLA-KANDA/1.jpeg",
+    "story": "Yulla Kanda is one of Himachal Pradesh's best-kept secrets — a sacred mountain near Shimla adorned with a stunning Shri Krishna temple at over 11,000 feet. The trail weaves through dense oak and rhododendron forests, streams, and blooming alpine meadows. A perfect blend of spirituality, photography, and Himalayan adventure for weekenders.",
+    "highlights": [
+      "Trekking adventure",
+      "Shri Krishna Temple",
+      "Waterfall",
+      "Photography",
+      "High-altitude views"
+    ],
+    "inclusions": [
+      "Transportation",
+      "2 Nights Accommodation",
+      "Dinner",
+      "Breakfast & Snacks",
+      "Trekking equipment",
+      "Trip Captain"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Monuments entry tickets",
+      "Personal trekking gear",
+      "Travel Insurance"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/YULLA-KANDA/1.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach shimla",
+        "desc": "Begin your journey to shimla. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/YULLA-KANDA/2.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach yulla base",
+        "desc": "Begin your journey to yulla base. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/YULLA-KANDA/3.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach temple",
+        "desc": "Begin your journey to temple. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/YULLA-KANDA/5.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach delhi",
+        "desc": "Begin your journey to delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/YULLA-KANDA/4.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "jibhi-tirthan",
+    "title": "Jibhi Tirthan",
+    "category": "Backpacking & Leisure",
+    "duration": "2N/3D",
+    "location": "Jibhi Tirthan, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jibhi/20241231_155606(0).jpg",
+    "story": "Hidden in the folds of the Great Himalayan National Park, Jibhi and Tirthan Valley are Himachal Pradesh's best-kept secret. Ancient wooden temples, trout-filled rivers, and forested trails draw those who seek solace away from tourist rush. This 3-day escape covers cascading waterfalls, Jalori Pass views, and the serene Serolsar Lake — a true offbeat Himalayan retreat.",
+    "highlights": [
+      "Jibhi village exploration",
+      "Tirthan Valley trek",
+      "Mountain views",
+      "Cultural experiences"
+    ],
+    "inclusions": [
+      "Transportation",
+      "2 breakfasts",
+      "2 lunches",
+      "2 dinners",
+      "2 Nights Stay",
+      "Trekking equipment",
+      "Guide"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Personal expenses",
+      "Food during transit",
+      "Additional activities",
+      "Travel insurance"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jibhi/20241231_155606(0).jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jibhi/20241231_155606(0).jpg"
+      }
+    ]
+  },
+  {
+    "id": "jaisalmer",
+    "title": "Jaisalmer",
+    "category": "Backpacking & Leisure",
+    "duration": "2N/3D",
+    "location": "Jaisalmer, Himalayas",
+    "price": "₹8,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jaisalmer/IMG-20251125-WA0023.jpg",
+    "story": "Where the Thar Desert meets the magnificence of medieval architecture — Jaisalmer is India's Golden City, rising from the sands like a mirage. This 3-day desert escape includes the iconic Sam Sand Dunes with camel rides at sunset, the breathtaking Jaisalmer Fort (a UNESCO World Heritage Site), ornate Havelis, and a magical night under the stars in a desert camp.",
+    "highlights": [
+      "Historical exploration",
+      "Desert safari experience",
+      "Jaisalmer Fort",
+      "Cultural experiences",
+      "Longewala border"
+    ],
+    "inclusions": [
+      "Transportation",
+      "2 breakfasts",
+      "2 lunches",
+      "2 dinners",
+      "2 Nights Stay",
+      "Desert safari",
+      "Tour guide"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Personal expenses",
+      "Food during transit",
+      "Travel insurance"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jaisalmer/IMG-20251125-WA0023.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Jaisalmer",
+        "desc": "Begin your journey to Jaisalmer. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jaisalmer/IMG-20251125-WA0024.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach Thar desert",
+        "desc": "Begin your journey to Thar desert. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jaisalmer/IMG-20251125-WA0026.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach Khuldhar village",
+        "desc": "Begin your journey to Khuldhar village. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jaisalmer/IMG-20251125-WA0027.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach Jaisalmer camps",
+        "desc": "Begin your journey to Jaisalmer camps. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jaisalmer/IMG-20251125-WA0028.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/Jaisalmer/IMG-20251125-WA0029.jpg"
+      }
+    ]
+  },
+  {
+    "id": "udaipur",
+    "title": "Udaipur",
+    "category": "Backpacking & Leisure",
+    "duration": "2N/3D",
+    "location": "Udaipur, Himalayas",
+    "price": "₹8,000",
+    "heroImage": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/09/Thar-Desert.jpg",
+    "story": "The Venice of the East, Udaipur is a city of lakes, palaces, and unmatched Rajasthani grandeur. Set against the backdrop of the Aravalli Hills, this romantic city enchants with its shimmering Lake Pichola, the magnificent City Palace complex, and colorful bazaars. A 3-day sojourn here feels like stepping into the pages of a royal fairy tale.",
+    "highlights": [
+      "Lake Pichola boat ride",
+      "City Palace exploration",
+      "Cultural experiences",
+      "Mount Abu visit",
+      "Dilwara Temples"
+    ],
+    "inclusions": [
+      "Transportation",
+      "2 breakfasts",
+      "2 lunches",
+      "2 dinners",
+      "2 Nights Stay",
+      "Boat ride",
+      "Tour guide"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Personal expenses",
+      "Food during transit",
+      "Travel insurance"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://s3.india.com/wp-content/uploads/2024/09/Explore-Udaipur_-A-Perfect-Honeymoon-Getaway-For-Romantics.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach udaipur",
+        "desc": "Begin your journey to udaipur. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.rajasthantravel.com/images/jaisalmer-desert.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach mount abu",
+        "desc": "Begin your journey to mount abu. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach delhi",
+        "desc": "Begin your journey to delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.rajasthan.gov.in/images/udaipur-lake.jpg"
+      }
+    ]
+  },
+  {
+    "id": "chopta-tungnath",
+    "title": "Chopta-Tungnath",
+    "category": "Trekking",
+    "duration": "2N/3D",
+    "location": "Chopta-Tungnath, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/TUNGNATH/4.jpeg",
+    "story": "Called the 'Mini Switzerland of India', the Chopta-Tungnath trail is one of Uttarakhand's most rewarding short treks. At 3,680 metres, Tungnath is the highest Shiva temple in the world, and the trek from Chopta's meadows passes through rhododendron forests blooming scarlet in spring. An optional extension to Chandrashila summit at 4,000m offers a sweeping 360° panorama of Nanda Devi, Kedarnath, and Trishul.",
+    "highlights": [
+      "World's Highest Shiva Temple",
+      "Chandrashila Peak",
+      "Deoriatal Lake",
+      "Himalayan views"
+    ],
+    "inclusions": [
+      "Transportation",
+      "2 nights accommodation",
+      "Meals",
+      "Trip Captain",
+      "Required Permits"
+    ],
+    "exclusions": [
+      "Extra meals",
+      "Travel Insurance",
+      "Room heaters",
+      "Costs due to natural calamities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Delhi to Haridwar (Overnight Bus)",
+        "desc": "Board your overnight Volvo bus from Delhi toward Haridwar. Arrive early morning and freshen up.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/TUNGNATH/4.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Haridwar to Chopta (via Devprayag)",
+        "desc": "Drive from Haridwar through the Garhwal foothills, passing the sacred Devprayag Sangam (confluence of Alaknanda and Bhagirathi). Continue ascending through rhododendron forests to Chopta (2,680m). Check into camps or guesthouses and acclimatize.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/TUNGNATH/1.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Tungnath Trek + Chandrashila Summit",
+        "desc": "Early morning 4km trek to Tungnath — the world's highest Shiva temple at 3,680m. Snow-covered and serene, the temple is part of the Panch Kedar circuit. Continue 1.5km further to Chandrashila Summit (4,000m) for a sweeping 360° view of Nanda Devi, Kedarnath, Trishul, and Chaukhamba. Descend back to Chopta.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/TUNGNATH/10.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Chopta to Deoria Tal & Ukhimath",
+        "desc": "Morning drive to Sari village and trek 2.5km to the magical Deoria Tal lake (2,438m) — a mirror-like alpine lake perfectly reflecting the snow peaks of the Chaukhamba massif. Return to Sari and drive to Ukhimath for night stay.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/TUNGNATH/6.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "mcleodganj-triund",
+    "title": "Mcleodganj Triund",
+    "category": "Trekking",
+    "duration": "2N/3D",
+    "location": "Mcleodganj Triund, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://vl-prod-static.b-cdn.net/system/images/000/285/879/65d5ac0bba376854690e9fda2f9c3fc7/original/triund.jpg",
+    "story": "The seat of the Dalai Lama and the spiritual heart of Tibetan Buddhism in exile, McLeodganj is a town that quietly stirs the soul. The Triund trek from here ascends 2,850m along the Dhauladhar ridge, rewarding trekkers with dramatic views of the Kangra Valley stretching to the horizon. Camp under a star-strewn sky, explore Buddhist monasteries, and immerse in Tibetan culture.",
+    "highlights": [
+      "Spiritual town of Mcleodganj",
+      "Triund trek",
+      "Paragliding at Bir Billing",
+      "Dalai Lama Temple"
+    ],
+    "inclusions": [
+      "Transportation",
+      "2 breakfasts",
+      "2 dinners",
+      "1 Night Hotel",
+      "1 Night Camps",
+      "Trekking gear",
+      "Tour guide"
+    ],
+    "exclusions": [
+      "5% GST",
+      "Personal expenses",
+      "Travel insurance",
+      "Personal medication"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://storage.googleapis.com/images.staybook.in/things-to-do/mcleod-ganj-triund-trek-with-manu-adventures-india/6.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Mcleodganj",
+        "desc": "Begin your journey to Mcleodganj. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/42/10/8e/triund-hill.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach Triund",
+        "desc": "Begin your journey to Triund. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2023/10/triund-peak.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach Dharamshala",
+        "desc": "Begin your journey to Dharamshala. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://storage.googleapis.com/images.staybook.in/things-to-do/mcleod-ganj-triund-trek-with-manu-adventures-india/6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "churdhar",
+    "title": "Churdhar",
+    "category": "Pilgrimage & Trekking",
+    "duration": "2N/3D",
+    "location": "Churdhar, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/f3/83/84/panorama-of-the-churdhar.jpg",
+    "story": "Steps tracing stories of ancient times.",
+    "highlights": [
+      "Churdhar Mahadev Temple trek",
+      "Chopal village",
+      "Shimla Mall Road",
+      "Evening aarti experience"
+    ],
+    "inclusions": [
+      "Transportation",
+      "Stay in Chopal",
+      "2 breakfasts",
+      "2 dinners",
+      "Professional guide"
+    ],
+    "exclusions": [
+      "Costs due to natural calamities",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cc/c3/1b/churdhar-peak.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach shimla",
+        "desc": "Begin your journey to shimla. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/02/churdhar-peak.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach chaupal",
+        "desc": "Begin your journey to chaupal. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach chudhar Temple",
+        "desc": "Begin your journey to chudhar Temple. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach delhi",
+        "desc": "Begin your journey to delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cc/c3/1b/churdhar-peak.jpg"
+      }
+    ]
+  },
+  {
+    "id": "adi-kailash",
+    "title": "Adi Kailash",
+    "category": "Pilgrimage",
+    "duration": "4N/5D",
+    "location": "Adi Kailash, Himalayas",
+    "price": "₹16,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg",
+    "story": "Journey to divinity in every step.",
+    "highlights": [
+      "Sacred Mount Adi Kailash",
+      "Divine Om Parvat darshan",
+      "Nepal & China borders",
+      "Cultural immersion"
+    ],
+    "inclusions": [
+      "Accommodation",
+      "6 Breakfasts",
+      "6 Lunches",
+      "6 Dinners",
+      "Trek Guide",
+      "Transportation"
+    ],
+    "exclusions": [
+      "Personal Expenses",
+      "Entry tickets",
+      "5% GST",
+      "Personal Porter"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Haldwani",
+        "desc": "Begin your journey to Haldwani. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach dharchula",
+        "desc": "Begin your journey to dharchula. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/6.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach gunji",
+        "desc": "Begin your journey to gunji. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/7.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach adi kailash",
+        "desc": "Begin your journey to adi kailash. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/8.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach om parvat",
+        "desc": "Begin your journey to om parvat. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/4.jpeg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach haldwani",
+        "desc": "Begin your journey to haldwani. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/2.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "kinner-kailash",
+    "title": "Kinner Kailash",
+    "category": "Pilgrimage & Trekking",
+    "duration": "3N/4D",
+    "location": "Kinner Kailash, Himalayas",
+    "price": "₹12,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/14.jpg",
+    "story": "Where mythology meets towering Himalayan heights.",
+    "highlights": [
+      "Kinner Kailash Shivling",
+      "Sunrise views",
+      "Kinnaur Gate",
+      "Ganesh Park camping"
+    ],
+    "inclusions": [
+      "Homestay & Camps",
+      "3 Breakfasts",
+      "2 Lunches",
+      "3 Dinners",
+      "Trek Guide",
+      "Transportation"
+    ],
+    "exclusions": [
+      "Personal Expenses",
+      "Entry tickets",
+      "5% GST",
+      "Personal Porter"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/14.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach shimla",
+        "desc": "Begin your journey to shimla. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/0.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach kalpa",
+        "desc": "Begin your journey to kalpa. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/9.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach ganesh park",
+        "desc": "Begin your journey to ganesh park. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/12.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach summit",
+        "desc": "Begin your journey to summit. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/17.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach shimla",
+        "desc": "Begin your journey to shimla. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/10.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Reach delhi",
+        "desc": "Begin your journey to delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KINNAURKAILASH/13.jpg"
+      }
+    ]
+  },
+  {
+    "id": "madhmaheshwar",
+    "title": "Madhmaheshwar",
+    "category": "Pilgrimage & Trekking",
+    "duration": "2N/3D",
+    "location": "Madhmaheshwar, Himalayas",
+    "originalPrice": "₹8,000",
+    "price": "₹6,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg",
+    "story": "Where devotion rises with every step.",
+    "highlights": [
+      "Madhmaheshwar temple",
+      "Budha Madhmaheshwar",
+      "Devprayag Sangam",
+      "Scenic Himalayan trekking"
+    ],
+    "inclusions": [
+      "Accommodation",
+      "4 Meals",
+      "Transport from Delhi",
+      "Professional guide"
+    ],
+    "exclusions": [
+      "Costs due to natural calamities",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach devprayag",
+        "desc": "Begin your journey to devprayag. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/6.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach dhari devi",
+        "desc": "Begin your journey to dhari devi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/7.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach ransi",
+        "desc": "Begin your journey to ransi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/8.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach madhmaheshwar",
+        "desc": "Begin your journey to madhmaheshwar. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/4.jpeg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach delhi",
+        "desc": "Begin your journey to delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/2.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "rudranath-kalpeshwar",
+    "title": "Rudranath + Kalpeshwar",
+    "category": "Pilgrimage & Trekking",
+    "duration": "4N/5D",
+    "location": "Rudranath + Kalpeshwar, Himalayas",
+    "price": "₹9,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg",
+    "story": "Faith and nature converge in silence.",
+    "highlights": [
+      "Rudranath temple darshan",
+      "Lyiti Bugyal meadows",
+      "Kalpeshwar temple visit"
+    ],
+    "inclusions": [
+      "Accommodation",
+      "4 Breakfasts",
+      "4 Dinners",
+      "Transport from Delhi",
+      "Camping equipment"
+    ],
+    "exclusions": [
+      "Trek Fee",
+      "Personal gear",
+      "Travel insurance",
+      "Unforeseen circumstances costs"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/1.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach devprayag",
+        "desc": "Begin your journey to devprayag. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/6.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach sagar",
+        "desc": "Begin your journey to sagar. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/7.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach lyuti bugyal",
+        "desc": "Begin your journey to lyuti bugyal. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/8.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach rudranath",
+        "desc": "Begin your journey to rudranath. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/4.jpeg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach kalpeshwar",
+        "desc": "Begin your journey to kalpeshwar. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/2.jpeg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Reach delhi",
+        "desc": "Begin your journey to delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KEDARNATH/3.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "valley-of-flowers",
+    "title": "Valley Of Flowers",
+    "category": "Trekking",
+    "duration": "5N/6D",
+    "location": "Valley Of Flowers, Himalayas",
+    "originalPrice": "₹9,000",
+    "price": "₹8,000",
+    "heroImage": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2023/07/30150604/valley.jpg",
+    "story": "Declared a UNESCO World Heritage Site, the Valley of Flowers in Chamoli, Uttarakhand explodes into a kaleidoscope of colour between July and September. Over 500 species of wildflowers — blue poppies, asters, primulas, and orchids — carpet the valley floor at 3,658m. Combined with the sacred Hemkund Sahib Gurudwara at 4,329m, this trek is one of India's most transcendent journeys.",
+    "highlights": [
+      "Blooming valley of rare flowers",
+      "Hemkund Sahib pilgrimage",
+      "Snow-covered peaks views"
+    ],
+    "inclusions": [
+      "Transportation",
+      "Accommodation",
+      "All meals (Veg)",
+      "Trek leader",
+      "Forest permit"
+    ],
+    "exclusions": [
+      "Porters/mules luggage cost",
+      "Personal expenses",
+      "Personal medication"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://altitudeadventureindia.com/wp-content/uploads/2019/04/ValleyofflowersTrek-770x440.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Joshimath",
+        "desc": "Begin your journey to Joshimath. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2023/07/30145525/valley-of-flowers-1600x900.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach ghangaria",
+        "desc": "Begin your journey to ghangaria. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/03/valley-of-flowers.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach valley of flower",
+        "desc": "Begin your journey to valley of flower. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach ghangharia",
+        "desc": "Begin your journey to ghangharia. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach hemkund sahib",
+        "desc": "Begin your journey to hemkund sahib. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/01/hemkund.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Reach joshimath",
+        "desc": "Begin your journey to joshimath. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://altitudeadventureindia.com/wp-content/uploads/2019/04/ValleyofflowersTrek-770x440.jpg"
+      },
+      {
+        "day": "Day 7",
+        "title": "Reach delhi",
+        "desc": "Begin your journey to delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2023/07/30145525/valley-of-flowers-1600x900.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sar-pass-trek",
+    "title": "Sar Pass Trek",
+    "category": "Trekking",
+    "duration": "4N/5D",
+    "location": "Sar Pass Trek, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/10.jpeg",
+    "story": "One of YHAI's most legendary circuits, the Sar Pass trek in the Kullu Himalayas takes you through dense forests and open meadows, across snow bridges, and up to a breathtaking high mountain pass at 13,800 feet. Named after the pristine Sar Lake near the summit, this moderate-to-difficult trek is a rite of passage for Himalayan trekkers.",
+    "highlights": [
+      "Sar Pass at 13800 ft",
+      "Alpine lakes and meadows",
+      "Pine forests",
+      "Snow-covered landscapes"
+    ],
+    "inclusions": [
+      "All meals during trek",
+      "Tent accommodation",
+      "Trek leader",
+      "Permits",
+      "Transportation from Kasol"
+    ],
+    "exclusions": [
+      "Personal expenses",
+      "Travel insurance",
+      "Transportation to Kasol",
+      "Unforeseen weather expenses"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Kasol",
+        "desc": "Begin your journey to Kasol. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/10.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach grahan",
+        "desc": "Begin your journey to grahan. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/1.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach min thach",
+        "desc": "Begin your journey to min thach. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/3.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach nagaru base camp",
+        "desc": "Begin your journey to nagaru base camp. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/4.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach summit",
+        "desc": "Begin your journey to summit. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/5.jpeg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach biskeri",
+        "desc": "Begin your journey to biskeri. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/9.jpeg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Reach pulga",
+        "desc": "Begin your journey to pulga. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/6.jpeg"
+      },
+      {
+        "day": "Day 7",
+        "title": "Reach kasol",
+        "desc": "Begin your journey to kasol. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/SAR-PASS/7.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "kareri-lake-trek",
+    "title": "Kareri Lake Trek",
+    "category": "Trekking",
+    "duration": "2N/3D",
+    "location": "Kareri Lake Trek, Himalayas",
+    "price": "₹5,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KARERI-LAKE/5.jpeg",
+    "story": "A pristine glacial lake nestled at 2,934m in the foothills of the Dhauladhar range, Kareri Lake is a hidden gem near Dharamshala that few travellers discover. The short but stunning trek passes through oak and pine forests, crossing streams fed by snowmelt, to emerge at a crystalline alpine lake reflecting the snow-draped Dhauladhar peaks above.",
+    "highlights": [
+      "High-altitude lake",
+      "Beginner-friendly trek",
+      "Lush green meadows",
+      "Photography opportunities"
+    ],
+    "inclusions": [
+      "Accommodation",
+      "Meals (Veg)",
+      "Trek Leader",
+      "Forest Permits",
+      "Tent Stay"
+    ],
+    "exclusions": [
+      "Porters",
+      "Personal Expenses",
+      "Transportation from Mcleodganj to Kareri Village"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KARERI-LAKE/5.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/KARERI-LAKE/6.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "parashar-lake-trek",
+    "title": "Parashar Lake Trek",
+    "category": "Trekking",
+    "duration": "1N/2D",
+    "location": "Parashar Lake Trek, Himalayas",
+    "price": "₹5,000",
+    "heroImage": "https://himalayashelter.s3.ap-south-1.amazonaws.com/20251206_105259_kareri_lake_trek.jpg",
+    "story": "Set at 2,730m in the Mandi district of Himachal Pradesh, Parashar Lake is one of the most mystical sights in the Himalayas — a dark, still lake with a floating island that mysteriously shifts position year to year. The trek up is short but thrilling, rewarding you with jaw-dropping views of Dhauladhar, Pir Panjal, and the Great Himalayan ranges.",
+    "highlights": [
+      "Sacred lake",
+      "Ancient temple visit",
+      "Beginner-friendly trek",
+      "Mountain views"
+    ],
+    "inclusions": [
+      "Camping",
+      "3 Meals and snacks",
+      "Trekking Gears",
+      "Professional Guide",
+      "Permits"
+    ],
+    "exclusions": [
+      "Shower at Guest House",
+      "Personal expenses",
+      "Porters"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Mandi",
+        "desc": "Begin your journey to Mandi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://static.thehosteller.com/hostel/images/Prashar.jpg/Prashar-1721112060906.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Mandi",
+        "desc": "Begin your journey to Mandi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://storage.googleapis.com/stateless-www-justwravel-com/2024/11/d1a3cd8f-parashar-lake-trek-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "har-ki-dun-trek",
+    "title": "Har ki Dun Trek",
+    "category": "Trekking",
+    "duration": "6N/7D",
+    "location": "Har ki Dun Trek, Himalayas",
+    "price": "₹9,000",
+    "heroImage": "https://cvsqtgaxsa.cloudimg.io/https://images.prismic.io/indiahike/c7e7a137-be09-47dc-94f1-ffe502fcf081_Har+Ki+Dun_HKD_Ruinsara+Tal+-+Subhrajyoti+Das+-+Valley+of+Gods.jpg",
+    "story": "Translated as the 'Valley of Gods', Har Ki Dun is a glacially carved cradle valley in Uttarkashi that holds ancient villages, Norse-mythology connections, and alpine meadows ringed by 6000m peaks. The trek follows the Tons River through pine and oak forests to the base of the Swargarohini range — the mythical stairway to heaven described in the Mahabharata.",
+    "highlights": [
+      "Ancient valley trek route",
+      "Cultural village exploration",
+      "Alpine meadows",
+      "Traditional architecture"
+    ],
+    "inclusions": [
+      "Transfers from Dehradun",
+      "All meals",
+      "Tent accommodations",
+      "Forest fees",
+      "Trekking gears"
+    ],
+    "exclusions": [
+      "Food during transfers",
+      "Porters charges",
+      "Insurance",
+      "5% GST"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Dehradun",
+        "desc": "Begin your journey to Dehradun. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://storage.googleapis.com/stateless-www-justwravel-com/2024/05/b59e8937-har-ki-dun4.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach sankri",
+        "desc": "Begin your journey to sankri. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://dreamgohimalayas.in/wp-content/uploads/2026/01/Har-Ki-Dun-Trek-Uttarakhand-2026-%E2%80%93-Complete-Route-Weather-amp-Package-Details.png"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach osla",
+        "desc": "Begin your journey to osla. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanhigh.in/Data/Sites/1/media/trekphotos2024/124/fileogimage-har-ki-dun-cover.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach Kalkatiyadhar",
+        "desc": "Begin your journey to Kalkatiyadhar. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.prismic.io/indiahike/37839eb1-905d-4697-9f0c-226fcd11dc09_Bali+Pass_BP_3.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach summit",
+        "desc": "Begin your journey to summit. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://treksway.com/wp-content/uploads/2025/09/Bali-Pass-Trek-image-create-a-trek-with-trekers-walk-in-coverd-snow-route-and-peak-2.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach sankri",
+        "desc": "Begin your journey to sankri. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://moxtain.s3.ap-south-1.amazonaws.com/blogs/bali-pass-ruinsara-trek/bali-pass-ruinsara-taal/bali-pass-ruinsara-taal.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Reach delhi",
+        "desc": "Begin your journey to delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://discoveryhike.in/wp-content/uploads/2024/12/day-5-bali-pass-trek-discoveryhike-1024x683.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "hampta-pass-trek",
+    "title": "Hampta Pass Trek",
+    "category": "Trekking",
+    "duration": "4N/5D",
+    "location": "Hampta Pass Trek, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://www.stayvista.com/blog/wp-content/uploads/2025/11/Snow_on_Nag_Tibba__Bandarpunch_14644681648.jpg",
+    "story": "The Hampta Pass trek is one of the most dramatic crossings in the Indian Himalayas — transitioning from the lush green Kullu Valley on one side to the barren, arid moonscapes of Lahaul Valley on the other, all in a single day. Camping beside glacial lakes, crossing snow bridges over roaring streams, and topping out at 14,100 feet makes this a truly epic Himalayan adventure.",
+    "highlights": [
+      "Cross-Valley trek",
+      "River crossings",
+      "Chandratal Lake visit",
+      "Dramatic landscape contrast"
+    ],
+    "inclusions": [
+      "Transfers from Manali",
+      "All meals",
+      "Tent accommodations",
+      "Forest fees",
+      "Trekking gears"
+    ],
+    "exclusions": [
+      "Personal medication",
+      "Transportation to Manali",
+      "Additional weather expenses"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Manali",
+        "desc": "Begin your journey to Manali. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/01/nag-tibba.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach jobra",
+        "desc": "Begin your journey to jobra. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach chika base camp",
+        "desc": "Begin your journey to chika base camp. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/01/hampta-pass.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach balu ka ghera",
+        "desc": "Begin your journey to balu ka ghera. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach summit",
+        "desc": "Begin your journey to summit. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach shea goru",
+        "desc": "Begin your journey to shea goru. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/02/chandratal.jpg"
+      },
+      {
+        "day": "Day 6",
+        "title": "Reach chatru",
+        "desc": "Begin your journey to chatru. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/01/nag-tibba.jpg"
+      },
+      {
+        "day": "Day 7",
+        "title": "Reach chandratal",
+        "desc": "Begin your journey to chandratal. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 8",
+        "title": "Reach manali",
+        "desc": "Begin your journey to manali. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/01/hampta-pass.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bhrigu-lake-trek",
+    "title": "Bhrigu Lake Trek",
+    "category": "Trekking",
+    "duration": "2N/3D",
+    "location": "Bhrigu Lake Trek, Himalayas",
+    "price": "₹5,000",
+    "heroImage": "https://i0.wp.com/www.theluxeinsider.com/wp-content/uploads/2024/04/The-great-Bhrigu-lake.jpg",
+    "story": "Perched at 14,100 feet above Manali, Bhrigu Lake is steeped in myth — it is said the ancient sage Bhrigu meditated here and that the lake never completely freezes despite temperatures far below zero. The trek requires no technical expertise but rewards handsomely with meadows of wildflowers and a surreal lake reflecting the Dhauladhar peaks.",
+    "highlights": [
+      "High-altitude sacred lake",
+      "Alpine meadows",
+      "Perfect for beginners",
+      "Spiritual significance"
+    ],
+    "inclusions": [
+      "All meals during trek",
+      "Accommodation in tents",
+      "Trek leader",
+      "Permits",
+      "Transportation from Manali"
+    ],
+    "exclusions": [
+      "Porters for luggage",
+      "Personal expenses",
+      "Transportation to Manali"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Manali",
+        "desc": "Begin your journey to Manali. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://himalayashelter.s3.ap-south-1.amazonaws.com/20251206_104710_bhrigu_lake_trek.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Manali",
+        "desc": "Begin your journey to Manali. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.bikatadventures.com/images/Gallery/IMG1000X548/img-Beas-kund-trek7632-Bikat-Adventures.jpg"
+      }
+    ]
+  },
+  {
+    "id": "brahmatal-trek",
+    "title": "Brahmatal Trek",
+    "category": "Trekking",
+    "duration": "4N/5D",
+    "location": "Brahmatal Trek, Himalayas",
+    "price": "₹9,000",
+    "heroImage": "https://storage.googleapis.com/stateless-www-justwravel-com/2019/06/Brahmataal-JustWravel-4.jpg",
+    "story": "The Brahmatal trek in Chamoli, Uttarakhand is a winter trekker's dream — a journey through frozen forests and snow-covered meadows to a high-altitude lake that reflects Mt. Trishul and Nanda Ghunti. Named after the sage Brahma who is believed to have meditated here, the trail passes frozen lake meadows and ghost-quiet pine forests in magical winter silence.",
+    "highlights": [
+      "Winter trek with snow-covered trails",
+      "Alpine meadows",
+      "Photography opportunities"
+    ],
+    "inclusions": [
+      "Transfers from Rishikesh",
+      "All meals",
+      "Tent accommodations",
+      "Forest fees",
+      "Trekking gears"
+    ],
+    "exclusions": [
+      "Transportation to Rishikesh",
+      "Personal trekking gear",
+      "Additional weather expenses"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Rishikesh",
+        "desc": "Begin your journey to Rishikesh. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://assets.cntraveller.in/photos/61a6464dc0bbe30aec79ee6c/master/w_1600%2Cc_limit/Brahamatal-Sudhir-Varni-Brahamatal-1536x1024%2520(1).jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach lohajung",
+        "desc": "Begin your journey to lohajung. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://sk0.blr1.cdn.digitaloceanspaces.com/sites/400828/posts/539066/Brahmatal-Trek.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach bekaltal",
+        "desc": "Begin your journey to bekaltal. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/02/brahmatal.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach Brahmatal",
+        "desc": "Begin your journey to Brahmatal. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach lohajung",
+        "desc": "Begin your journey to lohajung. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach Rishikesh",
+        "desc": "Begin your journey to Rishikesh. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/03/brahmatal-lake.jpg"
+      }
+    ]
+  },
+  {
+    "id": "nag-tibba-trek",
+    "title": "Nag Tibba Trek",
+    "category": "Trekking",
+    "duration": "1N/2D",
+    "location": "Nag Tibba Trek, Himalayas",
+    "price": "₹5,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/NAG/GX010651.jpg",
+    "story": "The highest peak in the Tehri-Garhwal region at 3,022m, Nag Tibba is the perfect introductory Himalayan weekend trek from Delhi. The forested trail climbs through rhododendron and oak to open ridges with sweeping views of Bandarpunch, Kedarnath, Gangotri, and Chaukhamba peaks. Simple, stunning, and deeply rewarding for first-time Himalayan trekkers.",
+    "highlights": [
+      "Perfect weekend trek",
+      "Summit views of Himalayas",
+      "Easy difficulty level",
+      "Mountain camping"
+    ],
+    "inclusions": [
+      "Transfers from Dehradun",
+      "Veg Meals",
+      "Tents and Sleeping Bags",
+      "Medical Amenities",
+      "Forest permits"
+    ],
+    "exclusions": [
+      "Meals during Transportation",
+      "Personal Expenses",
+      "Evacuation costs"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Dehradun",
+        "desc": "Begin your journey to Dehradun. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/NAG/GX010651.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Dehradun",
+        "desc": "Begin your journey to Dehradun. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/NAG/IMG_4570.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gaumukh-tapovan-trek",
+    "title": "Gaumukh Tapovan Trek",
+    "category": "Trekking",
+    "duration": "5N/6D",
+    "location": "Gaumukh Tapovan Trek, Himalayas",
+    "price": "₹12,000",
+    "heroImage": "https://himalayashelter.s3.ap-south-1.amazonaws.com/gaumukh_tapovan_trek..._imresizer.jpg",
+    "story": "At the source of the River Ganga lies Gaumukh — the 'Cow's Mouth' glacier terminus that gives birth to the holy Bhagirathi river. Beyond it lies Tapovan, a flowering meadow at 4,463m encircled by some of the most dramatic peaks in the Gangotri Group, including Shivling (6,543m), Meru (6,660m), and Bhagirathi Peaks. This trek is both a geological wonder and a profound spiritual pilgrimage.",
+    "highlights": [
+      "Sacred source of Ganga River",
+      "Gangotri glacier views",
+      "High altitude adventure"
+    ],
+    "inclusions": [
+      "Transfers from Rishikesh",
+      "All meals",
+      "Tent accommodations",
+      "Forest fees",
+      "Trekking gears"
+    ],
+    "exclusions": [
+      "Food during transfers",
+      "Porters charges",
+      "Insurance",
+      "5% GST"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Dehradun",
+        "desc": "Begin your journey to Dehradun. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/View_of_Gaumukh.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Gangotri",
+        "desc": "Begin your journey to Gangotri. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://cvsqtgaxsa.cloudimg.io/https://images.prismic.io/indiahike/8d846b6d-15d7-4f85-b1bf-172e62e79a12_Gaumukh+Tapovan_Sooraj+Kumar_View+of+Mount+Shivling+at+Tapovan.jpg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Reach Bhojwasa",
+        "desc": "Begin your journey to Bhojwasa. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/45/af/42/gomukh.jpg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Reach Gaumukh",
+        "desc": "Begin your journey to Gaumukh. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://s3.ap-south-1.amazonaws.com/moxtain/blogs/Gangotri/Gangotri+3-min.jpg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Reach Tapovan",
+        "desc": "Begin your journey to Tapovan. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/03/gaumukh.jpg"
+      },
+      {
+        "day": "Day 5",
+        "title": "Reach Bhojwasa",
+        "desc": "Begin your journey to Bhojwasa. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      },
+      {
+        "day": "Day 6",
+        "title": "Reach Dehradun",
+        "desc": "Begin your journey to Dehradun. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+      }
+    ]
+  },
+  {
+    "id": "beas-kund-trek",
+    "title": "Beas Kund Trek",
+    "category": "Trekking",
+    "duration": "2N/3D",
+    "location": "Beas Kund Trek, Himalayas",
+    "price": "₹5,000",
+    "heroImage": "https://i0.wp.com/www.theluxeinsider.com/wp-content/uploads/2024/04/The-great-Bhrigu-lake.jpg",
+    "story": "Hidden at the foot of the Solang Nala near Manali, Beas Kund is the glacial source of the mighty Beas River — a sacred site and stunning alpine lake at 3,700m. The trail from Dhundi camp follows a glacier-carved valley through rocky moraines and snowfields, offering close-up views of Friendship Peak, Lady of Keylong, and Hanuman Tibba.",
+    "highlights": [
+      "Sacred source of Beas River",
+      "Alpine meadows",
+      "Spiritual significance",
+      "Perfect for beginners"
+    ],
+    "inclusions": [
+      "Accommodation on sharing basis",
+      "Meals",
+      "Transportation from Manali to Dhundi",
+      "Permits"
+    ],
+    "exclusions": [
+      "Personal expenses",
+      "Travel insurance",
+      "Evacuation expenses"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Manali",
+        "desc": "Begin your journey to Manali. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://himalayashelter.s3.ap-south-1.amazonaws.com/20251206_104710_bhrigu_lake_trek.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Manali",
+        "desc": "Begin your journey to Manali. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.bikatadventures.com/images/Gallery/IMG1000X548/img-Beas-kund-trek7632-Bikat-Adventures.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bunbuni-pass-trek",
+    "title": "Bunbuni Pass Trek",
+    "category": "Trekking",
+    "duration": "3N/4D",
+    "location": "Bunbuni Pass Trek, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://thepeakfreaks.com/wp-content/uploads/2025/05/Bhunbhuni-Bun-buni-Boon-booni-bunbunipass-bunbunitrek-respectnature-trekkingadventure-kalgatobunbuni-kheergangatobunbuni-kalgatokheergangaviabunbu-1024x575.jpg",
+    "story": "The Bunbuni Pass trek in Parvati Valley connects the popular Kheerganga trail to the remote Kalgha meadow viewpoint. A short but exhilarating high-pass crossing at 3,800m, the trail offers solitude, forest walks through silver firs, and panoramic Himalayan ridge views rarely seen by mainstream trekkers.",
+    "highlights": [
+      "Mountain pass adventure",
+      "Forest trails",
+      "Scenic mountain views",
+      "Moderate difficulty level"
+    ],
+    "inclusions": [
+      "Transfers from Delhi",
+      "All meals",
+      "Tent accommodations",
+      "Forest fees",
+      "Trekking gears"
+    ],
+    "exclusions": [
+      "Food during transfers",
+      "Porters charges",
+      "Insurance",
+      "5% GST"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://manalitourplanner.com/wp-content/uploads/2024/12/Kasol.jpg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Delhi",
+        "desc": "Begin your journey to Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/02/bunbuni-pass.jpg"
+      }
+    ]
+  },
+  {
+    "id": "manali-and-kasol",
+    "title": "Manali and Kasol",
+    "category": "Backpacking & Leisure",
+    "duration": "3N/4D",
+    "location": "Manali and Kasol, Himalayas",
+    "price": "₹6,000",
+    "heroImage": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANALI/1.jpeg",
+    "story": "This back-to-back mountain town combo packs twin personalities into one trip — Manali's adventure and snow culture paired with Kasol's laid-back riverside vibe. From the Rohtang Pass snowfields and Sissu waterfalls to the pine-shaded banks of the Parvati River and the quirky cafés of Kasol, this is Himachal Pradesh's most celebrated backpacker circuit.",
+    "highlights": [
+      "Mountain towns exploration",
+      "Cultural experiences",
+      "Adventure activities",
+      "Photography"
+    ],
+    "inclusions": [
+      "All meals during trek",
+      "Accommodation",
+      "Permits",
+      "Transportation from Delhi to Manali",
+      "Adventure activities"
+    ],
+    "exclusions": [
+      "Personal expenses",
+      "Travel insurance",
+      "Tips and gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Delhi to Manali (Overnight Bus)",
+        "desc": "Depart from Delhi in the evening aboard a Volvo AC bus. Overnight journey through Chandigarh and the lower hills.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANALI/1.jpeg"
+      },
+      {
+        "day": "Day 1",
+        "title": "Reach Manali – Hotel Check-in",
+        "desc": "Arrive in Manali by morning. Freshen up and check into your hotel. Evening stroll on Mall Road, visit Hadimba Devi Temple and the old Manu Temple. Dinner and overnight stay.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANALI/4.jpeg"
+      },
+      {
+        "day": "Day 2",
+        "title": "Sissu, Rohtang Pass & Snow Point",
+        "desc": "Drive through the Atal Tunnel to Sissu — a pristine meadow with waterfalls and mountain views on the other side of the Rohtang Pass. Visit Atal Setu and proceed to the Rohtang Snow Point for snow play and panoramic Himalayan views. Return to Manali.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANALI/5.jpeg"
+      },
+      {
+        "day": "Day 3",
+        "title": "Manali to Kasol",
+        "desc": "After breakfast, depart for Kasol via Kullu and the Beas Valley. Arrive in Kasol — the tiny backpacker village on the Parvati River — and check into your camp or guesthouse. Evening walk along the river. Try Israeli café food, a Kasol signature.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANALI/6.jpeg"
+      },
+      {
+        "day": "Day 4",
+        "title": "Kheerganga Trek (Optional) or Leisure at Kasol",
+        "desc": "Optional full-day trek to Kheerganga — 12km through dense forests to a natural hot spring meadow at 2,960m. Non-trekkers can explore Manikaran Sahib Gurudwara (famous for its hot spring langar), local markets, and riverside cafés.",
+        "image": "https://raw.githubusercontent.com/h0891728-cmyk/images/main/MANALI/8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "bali-pass-trek",
+    "title": "Bali Pass Trek",
+    "category": "Trekking",
+    "duration": "7N/8D",
+    "location": "Bali Pass Trek, Himalayas",
+    "price": "₹13,000",
+    "heroImage": "https://cvsqtgaxsa.cloudimg.io/https://images.prismic.io/indiahike/c7e7a137-be09-47dc-94f1-ffe502fcf081_Har+Ki+Dun_HKD_Ruinsara+Tal+-+Subhrajyoti+Das+-+Valley+of+Gods.jpg",
+    "story": "One of the most technically demanding trails in Uttarkashi, the Bali Pass trek crosses a high mountain pass connecting the Har Ki Dun Valley to Yamunotri — two of the Garhwal Himalaya's most sacred regions. The trail traverses some of the most remote and scenic terrain in the Indian Himalayas, including the sacred Ruinsara Tal glacial lake and the rarely trekked upper reaches of the Tons Valley.",
+    "highlights": [
+      "High altitude adventure",
+      "Ruinsara Tal lake",
+      "Bali Pass crossing",
+      "Yamunotri temple visit"
+    ],
+    "inclusions": [
+      "Transfers from Dehradun",
+      "Meals",
+      "Tent accommodations",
+      "Forest fees",
+      "Trekking gears"
+    ],
+    "exclusions": [
+      "Food during transfers",
+      "Porters charges",
+      "Insurance",
+      "5% GST"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Delhi – Dehradun – Uttarkashi – Sankri – Taluka – Seema – Devsu Bugyal – Ruinsara Tal – Bali Pass – Yamunotri – Janki Chatti – Dehradun – Delhi",
+        "desc": "Begin your journey to Delhi – Dehradun – Uttarkashi – Sankri – Taluka – Seema – Devsu Bugyal – Ruinsara Tal – Bali Pass – Yamunotri – Janki Chatti – Dehradun – Delhi. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://storage.googleapis.com/stateless-www-justwravel-com/2024/05/b59e8937-har-ki-dun4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "buran-ghati-trek",
+    "title": "Buran Ghati Trek",
+    "category": "Trekking",
+    "duration": "6N/7D",
+    "location": "Buran Ghati Trek, Himalayas",
+    "price": "₹9,000",
+    "heroImage": "https://raachotrekkers.com//wp-content/uploads/2020/05/Meadows-of-Litham-en-route-Buran-Ghati-pass.jpg",
+    "story": "The Buran Ghati Pass at 15,000 feet is famous for its exhilarating rappel descent on the far side — a near-vertical snow wall that must be descended by rope. The route from Shimla traverses the enchanting Chandranahan Lake surrounded by colossal peaks, through beautiful meadows of Litham and Dayara before the adrenaline-pumping crossing that makes this trek truly legendary.",
+    "highlights": [
+      "Mountain pass crossing",
+      "Alpine scenery",
+      "Chandranahan Lake visit",
+      "Beautiful meadows"
+    ],
+    "inclusions": [
+      "Camping and homestay",
+      "All meals",
+      "Permits",
+      "Trek Leaders",
+      "Tents",
+      "Shimla transportation"
+    ],
+    "exclusions": [
+      "Travel to Shimla",
+      "Insurance",
+      "Personal gear",
+      "Offloading of luggage"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 0",
+        "title": "Departure from Shimla – Janglik – Dayara – Litham – Chandranahan – Buran Ghati – Barua – Shimla",
+        "desc": "Begin your journey to Shimla – Janglik – Dayara – Litham – Chandranahan – Buran Ghati – Barua – Shimla. The drive winds through spectacular Himalayan scenery with opportunities to stop at viewpoints. Settle in and explore the local surroundings as the evening draws in.",
+        "image": "https://www.himalayanwanderer.com/wp-content/uploads/2024/01/buran-ghati.jpg"
+      }
+    ]
+  }
+]
