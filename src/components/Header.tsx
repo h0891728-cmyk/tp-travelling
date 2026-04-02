@@ -6,7 +6,7 @@ import packagesData from '../lib/Packages.json';
 import logoImg from '../logo.png';
 
 // --- Configuration ---
-const WHATSAPP_NUMBER = "919876543210"; // Replace with your actual WhatsApp number (include country code, no +)
+const WHATSAPP_NUMBER = "917009736873"; // Replace with your actual WhatsApp number (include country code, no +)
 const WHATSAPP_MESSAGE = "Hello Travelling Partners! I would like to plan a trip.";
 const WA_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`;
 
